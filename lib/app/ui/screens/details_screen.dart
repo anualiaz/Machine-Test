@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:machine_test/app/data/model/EmployeeModel.dart';
+
 
 class EmployeeDetailScreen extends StatelessWidget {
   final  details;
